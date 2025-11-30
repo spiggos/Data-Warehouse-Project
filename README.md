@@ -27,6 +27,3 @@ This architecture is based on Medallion Architecture **Bronze**, **Silver** and 
 - Notion to create a roadmap for the project:
 (https://www.notion.so/SQL-Data-Warehouse-Project-2b4a5aa9294480d18f0fd91102c36b7a?source=copy_link)
 - DrawIO to design Data architecture,model,flows and diagrams ([./docs/](https://github.com/spiggos/Data-Warehouse-Project/tree/main/docs))
-
----
-about me
