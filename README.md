@@ -6,11 +6,13 @@ This project is a modern SQL Data Warehouse that includes ETL processes, data mo
 The goal of this project is to show how a data warehouse can be built and managed using SQL.
 Throughout the process, I worked on designing the database schema, building an ETL pipeline
 to load the data, and writing analytical queries to explore the information stored in the warehouse.
+This project follows industry best practices in data engineering and analytics.
 
 This project involves:
 1. **Data Architecture**: Designing a Modern Data Warehouse Using Medallion Architecture Bronze, Silver, and Gold layers.
 2. **ETL Pipelines**: Extracting, transforming, and loading data from source systems into the warehouse.
 3. **Data Modeling**: Developing fact and dimension tables optimized for analytical queries.
+4. **Analytics**: Creating SQL-based reports for actionable insights.
 
 ## Data Architecure
 This architecture is based on Medallion Architecture **Bronze**, **Silver** and **Gold** Layers: 
